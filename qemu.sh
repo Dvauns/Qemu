@@ -18,11 +18,11 @@ echo "(X) Exit"
 read doing
 
 case $doing in
-"1") bash $HOME/Qemu/Data/start.sh
+"1") bash $HOME/qemu/Data/start.sh
 ;;
-"2") nano $HOME/Qemu/Data/start.sh
+"2") nano $HOME/qemu/Data/start.sh
 ;;
-"3") bash $HOME/Qemu/Data/about.sh
+"3") bash $HOME/qemu/Data/about.sh
 ;;
 "x") exit 0
 ;;
