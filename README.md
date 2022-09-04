@@ -6,7 +6,7 @@ pkg install git
 
 git clone https://gitlab.com/Dvauns/qemu.git
 
-cd Qemu
+cd qemu
 
 bash qemu-setup.sh
 
