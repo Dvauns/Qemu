@@ -4,7 +4,7 @@
 
 pkg install git
 
-git clone https://gitlab.com/Dvauns/qemu
+git clone https://gitlab.com/Dvauns/qemu.git
 
 cd Qemu
 
